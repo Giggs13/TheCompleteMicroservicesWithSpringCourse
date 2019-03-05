@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.giggs13.cloud</groupId>
+    <artifactId>spring-microservices-cloud-configuration</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <name>spring-microservices-cloud-configuration</name>
+
+    <modules>
+        <module>spring-microservices-config-server</module>
+        <module>spring-microservices-config-client</module>
+    </modules>
+</project>
